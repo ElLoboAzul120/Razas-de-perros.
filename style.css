@@ -1,0 +1,13 @@
+body {
+    font-size: 15pt;
+    background-color: rgb(255, 250, 250);
+}
+
+button {
+  border-radius: 10px
+}
+
+img {
+  height: 150px;
+  border-radius: 20px;
+}
