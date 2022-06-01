@@ -1,13 +1,28 @@
 body {
     font-size: 15pt;
-    background-color: rgb(255, 250, 250);
+    background-color: rgb(165,42,42);
+    font-family: 'Tiro Devanagari Hindi', serif;
 }
 
 button {
-  border-radius: 10px
+  border-radius: 10px;
+  border-color: blanchedalmond;
+  background-color: bisque;
 }
 
 img {
   height: 150px;
   border-radius: 20px;
+}
+
+p {
+  text-align: center;
+}
+
+#header {
+  text-align: center;
+  background-color: darkred;
+  border-radius: 12px;
+  
+
 }
